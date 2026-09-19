@@ -1,0 +1,6 @@
+transaction_id;amount;status;customer
+101;500.0;Success;Rahul
+102;;Failed;Amit
+103;750.0;;Priya
+104;300.0;Success;
+105;;Failed;Neha

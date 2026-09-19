@@ -1,0 +1,7 @@
+order_id,restaurant_name,order_date,amount
+101,Dominos,2026-09-15,450
+102,Swiggy Cafe,2026-09-15,300
+103,Dominos,2026-09-16,500
+104,Dominos,2026-09-15,450
+105,Pizza Hut,2026-09-17,600
+106,Swiggy Cafe,2026-09-15,300

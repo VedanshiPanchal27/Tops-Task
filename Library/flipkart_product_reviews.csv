@@ -1,0 +1,16 @@
+product,rating,category,review_text
+Phone,5 stars,Electronics,Great product
+Laptop,4 stars,Electronics,Good laptop
+Shoes,3 stars,Fashion,Average shoes
+Watch,5 stars,Accessories,Excellent watch
+Headphones,4 stars,Electronics,Good sound
+Phone,5 stars,Electronics,Very good
+Laptop,4 stars,Electronics,Nice laptop
+Shoes,,Fashion,Okay
+Watch,3 stars,Accessories,Average
+Headphones,5 stars,Electronics,Excellent tablet
+Phone,4 stars,Electronics,Good phone
+Laptop,5 stars,Electronics,Excellent
+Shoes,2 stars,Fashion,Poor quality
+Watch,4 stars,Accessories,Nice watch
+Headphones,5 stars,Electronics,Very good
